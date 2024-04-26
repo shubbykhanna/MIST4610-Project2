@@ -4,11 +4,11 @@
 20244 Group 3
 
 1. Shubhangi Khanna [@shubbykhanna](https://github.com/shubbykhanna/MIST4610-Project2)
-2. Elyssa Abbott [@elyssaabbott(https://github.com/elyssaabbott/MIST4610-Project2/blob/main/README.md)]
-3. Nicolle Serafin [@nikkiserafin(https://github.com/nikkiserafin/MIST4610-Project2)]
-4. Jay Dumon [@JayDumon(https://github.com/jaydumon/MIST4610-Project2)]
+2. Elyssa Abbott [@elyssaabbott](https://github.com/elyssaabbott/MIST4610-Project2/blob/main/README.md)
+3. Nicolle Serafin [@nikkiserafin](https://github.com/nikkiserafin/MIST4610-Project2)
+4. Jay Dumon [@JayDumon](https://github.com/jaydumon/MIST4610-Project2)
 5. Ryan Cullen @javaprogrammer2023
-6. Shriya Tummalapalli [@shriyatummalapalli(https://github.com/shriyatummalapalli/MIST4610-Project2)]
+6. Shriya Tummalapalli [@shriyatummalapalli](https://github.com/shriyatummalapalli/MIST4610-Project2)
 
 ## Data Description
 
